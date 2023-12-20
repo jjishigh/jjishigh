@@ -1,0 +1,62 @@
+[
+    {
+        "IssuingNetwork": "VISA",
+        "CardNumber": "4169088438622700",
+        "Bank": "1ST UNITED BANK",
+        "Name": "Onwuamaegbu Shalhoub",
+        "Address": "2846 Bridge Avenue",
+        "Country": "UNITED STATES",
+        "MoneyRange": "$576",
+        "CVV": 287,
+        "Expiry": "2/2029",
+        "Pin": 7996
+    },
+    {
+        "IssuingNetwork": "VISA",
+        "CardNumber": "4532974797606394",
+        "Bank": "1ST UNITED BANK",
+        "Name": "Yuuka Boutros",
+        "Address": "1864 Drainer Avenue",
+        "Country": "UNITED STATES",
+        "MoneyRange": "$516",
+        "CVV": 120,
+        "Expiry": "2/2023",
+        "Pin": 2224
+    },
+    {
+        "IssuingNetwork": "VISA",
+        "CardNumber": "4169085106829914",
+        "Bank": "1ST UNITED BANK",
+        "Name": "Juana Yatron",
+        "Address": "1877 Dye Street",
+        "Country": "UNITED STATES",
+        "MoneyRange": "$858",
+        "CVV": 948,
+        "Expiry": "2/2024",
+        "Pin": 7318
+    },
+    {
+        "IssuingNetwork": "VISA",
+        "CardNumber": "4532983339786473",
+        "Bank": "1ST UNITED BANK",
+        "Name": "Khazimat Farkas",
+        "Address": "3383 Bottom Lane",
+        "Country": "UNITED STATES",
+        "MoneyRange": "$836",
+        "CVV": 772,
+        "Expiry": "2/2029",
+        "Pin": 3390
+    },
+    {
+        "IssuingNetwork": "VISA",
+        "CardNumber": "4791576624146050",
+        "Bank": "1ST UNITED BANK",
+        "Name": "Curtis Eyjlfsson",
+        "Address": "3332 Hartland Avenue",
+        "Country": "UNITED STATES",
+        "MoneyRange": "$990",
+        "CVV": 843,
+        "Expiry": "2/2022",
+        "Pin": 3340
+    }
+]
